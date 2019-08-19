@@ -9,8 +9,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Commands to run application
 
 1. npm i
-2. ng serve
-3. nodemon (in seperate terminal)
+2. ng serve (inside client folder)
+3. nodemon (in base folder and in seperate terminal)
 4. Go to url http://localhost:4200
 
 ## Build
